@@ -8,7 +8,7 @@ Ce dépôt peut être ajouté en tant qu'**extension** dans MakeCode.
 * ouvrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * cliquez sur **Nouveau projet**
 * cliquez sur **Extensions** dans le menu engrenage
-* recherchez **https://github.com/etiennebeaulac/train-solution** et importez
+* recherchez **https://github.com/etiennebeaulac/train-template** et importez
 
 ## Éditer ce projet ![Badge du statut de la compilation](https://github.com/etiennebeaulac/train-template/workflows/MakeCode/badge.svg)
 
